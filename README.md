@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Data Srver</h1>
+  <h1>Data Server</h1>
 </div>
 
 This code defines a single endpoint, `/query`, that accepts the following parameters:
